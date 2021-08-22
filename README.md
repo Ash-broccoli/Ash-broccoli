@@ -1,6 +1,7 @@
-### Hi there 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ash-broccoli&theme=midnight-purple&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-broccoli&theme=midnight-purple&show_icons=true" />
+### Hey there. Stay and relax a bit :)
+<img align="center" style="width: 115px;" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=Ash-broccoli&theme=midnight-purple&show_icons=true" style="max-width:100%;height: 205px;"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-broccoli&theme=midnight-purple&show_icons=true" style="max-width:100%;height: 205px;"/>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Ash-broccoli&custom_title=My%20Contributions%20&hide_border=false&bg_color=000000&color=ffffff&line=813bd3&point=80bda5&area=true" /><!--
 **Ash-broccoli/Ash-broccoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
