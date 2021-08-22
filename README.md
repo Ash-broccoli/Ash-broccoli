@@ -18,7 +18,7 @@ Im just a regular individual making poor life choices, but coding isn't one of t
  
  📈 **My Stats:**
 <p>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ash-broccoli&theme=midnight-purple&show_icons=true"/>
+ <img width="500em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ash-broccoli&theme=midnight-purple&show_icons=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-broccoli&theme=midnight-purple&show_icons=true"/>
 </p>
 <p>
