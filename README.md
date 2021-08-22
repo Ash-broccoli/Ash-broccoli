@@ -17,9 +17,12 @@ Im just a regular individual making poor life choices, but coding isn't one of t
 
  
  📈 **My Stats:**
- <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ash-broccoli&theme=midnight-purple&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-broccoli&theme=midnight-purple&show_icons=true"/>
+<p>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ash-broccoli&theme=midnight-purple&show_icons=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-broccoli&theme=midnight-purple&show_icons=true"/>
 </p>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Ash-broccoli&theme=midnight-purple"/>
+<p>
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=Ash-broccoli&theme=midnight-purple"/>
+ <img width="350em" align="left" style="width: 115px;" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" />
+</p>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Ash-broccoli&custom_title=My%20Contributions%20&hide_border=false&bg_color=000000&color=ffffff&line=813bd3&point=80bda5&area=true" /><!--
