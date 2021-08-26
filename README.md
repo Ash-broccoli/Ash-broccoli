@@ -1,6 +1,6 @@
 ### Hey there. Stay and relax a bit :)
 
-.
+
 <img align="right" style="width: 115px;" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 Im just a regular individual making poor life choices, but coding isn't one of them (yet)
 </br>
@@ -27,6 +27,6 @@ Im just a regular individual making poor life choices, but coding isn't one of t
 </p>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Ash-broccoli&custom_title=My%20Contributions%20&hide_border=false&bg_color=000000&color=ffffff&line=813bd3&point=80bda5&area=true" /><!--
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5NzMyMzQ0LC03ODY2NTYyNiwtNzg2Nj
-U2MjYsLTc4NjY1NjI2XX0=
+eyJoaXN0b3J5IjpbLTc4NjY1NjI2LDQ0OTczMjM0NCwtNzg2Nj
+U2MjYsLTc4NjY1NjI2LC03ODY2NTYyNl19
 -->
