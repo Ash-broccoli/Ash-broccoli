@@ -5,7 +5,7 @@
 Im just a regular individual making poor life choices, but coding isn't one of them (yet)
 </br>
 </br>
-...
+
 **Personal Stuff:**
 
 - 👨🏻‍💻 I’m currently working on my DreamLog: https://ash-dreamlog.herokuapp.com/;
@@ -27,6 +27,6 @@ Im just a regular individual making poor life choices, but coding isn't one of t
 </p>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Ash-broccoli&custom_title=My%20Contributions%20&hide_border=false&bg_color=000000&color=ffffff&line=813bd3&point=80bda5&area=true" /><!--
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM0MTQyMDgsLTc4NjY1NjI2LC03OD
-Y2NTYyNl19
+eyJoaXN0b3J5IjpbLTc4NjY1NjI2LC03ODY2NTYyNiwtNzg2Nj
+U2MjZdfQ==
 -->
