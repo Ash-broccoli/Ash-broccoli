@@ -5,6 +5,7 @@
 Im just a regular individual making poor life choices, but coding isn't one of them (yet)
 </br>
 </br>
+</br>
 
 **Personal Stuff:**
 
