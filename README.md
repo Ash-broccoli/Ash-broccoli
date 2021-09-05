@@ -25,7 +25,7 @@ Im just a regular individual making poor life choices, but coding isn't one of t
 </p>
 <p>
  <img src="http://github-readme-streak-stats.herokuapp.com?user=Ash-broccoli&theme=midnight-purple"/>
- <img width="30%" align="left" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" />
+ <img width="40%" align="left" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" />
 </p>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Ash-broccoli&custom_title=My%20Contributions%20&hide_border=false&bg_color=000000&color=ffffff&line=813bd3&point=80bda5&area=true" /><!--
 <!--stackedit_data:
