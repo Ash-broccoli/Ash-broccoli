@@ -4,7 +4,7 @@
 <img width="30%" align="right" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 Im just a regular individual making poor life choices, but coding isn't one of them (yet)
 </br>
-</br>
+</br>asas
 </br>
 
 **Personal Stuff:**
