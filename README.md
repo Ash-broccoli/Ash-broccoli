@@ -9,7 +9,7 @@ Im just a regular individual making poor life choices, but coding isn't one of t
 **Personal Stuff:**
 
 - 👨🏻‍💻 I’m currently working on my SchoolAgenda (almost done);
-- 🥳 My best project so far: https://ash-dreamlog.herokuapp.com/
+- 🥳 My best project so far: https://ash-schoolagenda.herokuapp.com/
 - 🌱 I'm currently learning Java;
 - 💬 My pronouns are she/her;
 - ⚡ Fun fact: The sentence, "The quick brown fox jumps over the lazy dog" uses every letter in the English language.
