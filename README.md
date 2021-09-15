@@ -5,7 +5,7 @@ Im just a regular individual making poor life choices, but coding isn't one of t
 </br>
 </br>
 </br>
-
+ASDASD
 **Personal Stuff:**
 
 - 👨🏻‍💻 I’m currently working on my SchoolAgenda (almost done);
