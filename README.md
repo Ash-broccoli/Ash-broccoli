@@ -8,7 +8,7 @@ Im just a regular individual making poor life choices, but coding isn't one of t
 
 **Personal Stuff:**
 
-- 👨🏻‍💻 I’m currently working on my SchoolAgenda (almost done);
+- 👨🏻‍💻 I’m currently working on Neighborhood Talk App (Android);
 - 🥳 My best project so far: https://ash-schoolagenda.herokuapp.com/
 - 🌱 I'm currently learning Java;
 - 💬 My pronouns are she/her;
